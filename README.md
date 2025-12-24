@@ -1,4 +1,4 @@
-\# Cloud Storage Simulator
+Cloud Storage Simulator
 
 
 
@@ -10,11 +10,11 @@ A simple Java project simulating a cloud storage system with file management, co
 
 
 
-\## 🛠 Features
+Features
 
 
 
-\- Create, store, and manage different file types:
+Create, store, and manage different file types:
 
 &nbsp; - `DocumentFile`
 
@@ -22,15 +22,14 @@ A simple Java project simulating a cloud storage system with file management, co
 
 &nbsp; - `VideoFile`
 
-\- Implement file compression and sharing services.
+Implement file compression and sharing services.
 
-\- Exception handling for:
+Exception handling for:
 
 &nbsp; - File not found
 
 &nbsp; - Storage limit exceeded
-
-\- Console-based simulation of cloud storage operations.
+Console-based simulation of cloud storage operations.
 
 
 
